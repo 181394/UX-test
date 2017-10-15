@@ -1,0 +1,12 @@
+.uno/CodeCompletion/ux11/MainView.g.uno
+.uno/CodeCompletion/ux11/Icon.g.uno
+.uno/CodeCompletion/ux11/AccountIcon.g.uno
+.uno/CodeCompletion/ux11/AddIcon.g.uno
+.uno/CodeCompletion/ux11/StickersIcon.g.uno
+.uno/CodeCompletion/ux11/SidebarIcon.g.uno
+.uno/CodeCompletion/ux11/HamburgerIcon.g.uno
+.uno/CodeCompletion/ux11/HamburgerPart.g.uno
+.uno/CodeCompletion/ux11/CloseIcon.g.uno
+.uno/CodeCompletion/ux11/CrossPart.g.uno
+.uno/CodeCompletion/ux11/IconAndLabel.g.uno
+.uno/CodeCompletion/ux11/App1.unoproj.g.uno
